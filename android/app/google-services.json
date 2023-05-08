@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "218075503555",
+    "project_id": "testforchattingapp",
+    "storage_bucket": "testforchattingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218075503555:android:59bdbd4d9a158e5f467b76",
+        "android_client_info": {
+          "package_name": "com.example.anonymouschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218075503555-uvqk0r5aveu11770fqlts29m7c2215t1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2u-Xm5UhRW27qxULxEobnSew1R5hc7rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218075503555-uvqk0r5aveu11770fqlts29m7c2215t1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
